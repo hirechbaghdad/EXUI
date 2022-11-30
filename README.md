@@ -7,7 +7,7 @@ that allow for 3rd party desktop integration
 
 ## Contributing
 
-To contribute, open merge requests at https://https://github.com/hirechbaghdad/EXUI/.
+To contribute, open merge requests at https://github.com/hirechbaghdad/EXUI/.
 
 Commit messages should follow the official guidelines
 We require an URL to either an issue or a merge request in each commit.
